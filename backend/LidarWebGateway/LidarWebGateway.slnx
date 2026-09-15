@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="LidarWebGateway.vcxproj" Id="0bcdf658-6b34-439e-8db2-b4fb3f5e87e6" />
+</Solution>
